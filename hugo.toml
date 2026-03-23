@@ -1,0 +1,4 @@
+baseURL = 'https://W-O-L-O.github.io/mein-et-blog/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = "PaperMod"
