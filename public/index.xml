@@ -15,7 +15,9 @@
       <guid>http://localhost:1313/mein-et-blog/posts/grundlagen-halbleiter/</guid>
       <description>&lt;p&gt;In der heutigen Vorlesung ging es um die Ladungsträgerkonzentration.
 Die Formel für die Eigenleitungsdichte ist:&lt;/p&gt;
-&lt;p&gt;$$n_i^2 = N_C \cdot N_V \cdot e^{-\frac{E_g}{k \cdot T}}$$&lt;/p&gt;</description>
+&lt;p&gt;$$
+n_i^2 = N_C \cdot N_V \cdot e^{-\frac{E_g}{k \cdot T}}
+$$&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

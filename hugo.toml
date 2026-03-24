@@ -38,4 +38,10 @@ theme = "PaperMod"
 	name = "Suche"
 	url = "/search/"
 	weight = 40
-		
+
+[markup.goldmark.renderer]
+    unsafe = true # Erlaubt KaTeX, das HTML zu verarbeiten
+
+[markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
