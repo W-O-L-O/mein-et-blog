@@ -1,5 +1,41 @@
 baseURL = 'https://W-O-L-O.github.io/mein-et-blog/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+locale = 'de-de'
+title = 'W-O-L-O | E-Technik blog'
 theme = "PaperMod"
- 
+
+[params]
+	env = "production"
+	title = "W-O-L-O's Digitales Labor"
+	description = "Projekte und Vorlesungs-Zusammenfassungen eines E-Technik Studenten"
+
+	#Schöner Home-Screen (Profile Mode)
+	[params.profileMode]
+		enabled = true
+		title = "Willkommen in meinem E-Technk Blog"
+		subtitle = "Hier teile ich meine Projekte und Notizen aus den Vorlesungen."
+
+# --- Hier erstelle ich das Menü ---
+[[menu.main]]
+	identifier = "posts"
+	name = "Beiträge" # Alle Blogartikel
+	url = "/posts/"
+	weight = 10
+
+[[menu.main]]
+	identifier = "vorlesungen"
+	name = "Vorlesungen" # Filter für E-technik Notizen
+	url = "/categoriers/vorlesungen/"
+	weight = 20
+
+[[menu.main]]
+	identifier = "projekte"
+	name = "Projekte"
+	url = "/tags/projekt/"
+	weight = 30
+
+[[menu.main]]
+	identifier = "search"
+	name = "Suche"
+	url = "/search/"
+	weight = 40
+		

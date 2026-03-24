@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on W-O-L-O | E-Technik blog</title>
+    <link>http://localhost:1313/mein-et-blog/posts/</link>
+    <description>Recent content in Posts on W-O-L-O | E-Technik blog</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mein-et-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grundlagen der Halbleiter</title>
+      <link>http://localhost:1313/mein-et-blog/posts/grundlagen-halbleiter/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mein-et-blog/posts/grundlagen-halbleiter/</guid>
+      <description>&lt;p&gt;In der heutigen Vorlesung ging es um die Ladungsträgerkonzentration.
+Die Formel für die Eigenleitungsdichte ist:&lt;/p&gt;
+&lt;p&gt;$$n_i^2 = N_C \cdot N_V \cdot e^{-\frac{E_g}{k \cdot T}}$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "6a59e7d8558eeafc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "10e0e2f3c79a561b",
@@ -199,7 +212,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b140dcf9c113fad",
+  "active": "6a59e7d8558eeafc",
   "lastOpenFiles": [
     "Welcome.md"
   ]
