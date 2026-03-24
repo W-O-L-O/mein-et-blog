@@ -1,6 +1,8 @@
 ---
 title: "Grundlagen der Halbleiter"
 date: 2026-03-23
+categories: ["vorlesungen"]
+tags: ["theoretische-elektrotechnik"]
 math: true
 ---
 In der heutigen Vorlesung ging es um die Ladungsträgerkonzentration. 
